@@ -201,7 +201,7 @@ Turns raw lecture material and documents into a queryable knowledge base — stu
 
 ![Status](https://img.shields.io/badge/Status-Active-22D3EE?style=flat-square)
 
-[![Repository](https://img.shields.io/badge/Repository-05070D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME/coursemate-ai)
+[![Repository](https://img.shields.io/badge/Repository-05070D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kanishkk-gupta/coursemate-ai)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://your-demo-link.com)
 
 </td>
@@ -216,7 +216,7 @@ A team of specialized agents — each responsible for a distinct concern like se
 
 ![Status](https://img.shields.io/badge/Status-Active-22D3EE?style=flat-square)
 
-[![Repository](https://img.shields.io/badge/Repository-05070D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME/codeguardian-ai)
+[![Repository](https://img.shields.io/badge/Repository-05070D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kanishkk-gupta/codeguardian-ai)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://your-demo-link.com)
 
 </td>
@@ -233,7 +233,7 @@ Combines structured film data with an LLM reasoning layer to surface insights, c
 
 ![Status](https://img.shields.io/badge/Status-Active-22D3EE?style=flat-square)
 
-[![Repository](https://img.shields.io/badge/Repository-05070D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME/cinesage-analytics)
+[![Repository](https://img.shields.io/badge/Repository-05070D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kanishkk-gupta/cinesage-analytics)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://your-demo-link.com)
 
 </td>
@@ -328,7 +328,7 @@ Combines structured film data with an LLM reasoning layer to surface insights, c
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/kanishkk-gupta">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1500&color=94A3B8&center=true&vCenter=true&width=500&lines=%22The+best+way+to+predict+the+future+is+to+build+it.%22" alt="Dev quote"/>
 </a>
 
@@ -340,19 +340,19 @@ Combines structured film data with an LLM reasoning layer to surface insights, c
 <summary><b>📊 View GitHub Analytics</b></summary>
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=05070D&title_color=22D3EE&icon_color=8B5CF6&text_color=94A3B8" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=05070D&title_color=22D3EE&text_color=94A3B8" width="35%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kanishkk-gupta&show_icons=true&theme=dark&hide_border=true&bg_color=05070D&title_color=22D3EE&icon_color=8B5CF6&text_color=94A3B8" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkk-gupta&layout=compact&theme=dark&hide_border=true&bg_color=05070D&title_color=22D3EE&text_color=94A3B8" width="35%" alt="Top Languages"/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=05070D&ring=8B5CF6&fire=22D3EE&currStreakLabel=94A3B8" width="49%" alt="Streak stats"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=05070D&color=22D3EE&line=8B5CF6&point=F1F5F9&hide_border=true" width="49%" alt="Activity graph"/>
+<img src="https://streak-stats.demolab.com?user=kanishkk-gupta&theme=dark&hide_border=true&background=05070D&ring=8B5CF6&fire=22D3EE&currStreakLabel=94A3B8" width="49%" alt="Streak stats"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kanishkk-gupta&theme=react-dark&bg_color=05070D&color=22D3EE&line=8B5CF6&point=F1F5F9&hide_border=true" width="49%" alt="Activity graph"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" width="90%" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kanishkk-gupta&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" width="90%" alt="Trophies"/>
 
 <img src="./assets/snake-dark.svg" width="90%" alt="Contribution snake"/>
 
 <br/>
 
-[![WakaTime](https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg?style=for-the-badge&color=8B5CF6)](https://wakatime.com/@YOUR_WAKATIME_USER_ID)
+[![wakatime](https://wakatime.com/badge/user/fb418e3c-8375-46e3-aa10-5574207ac29d.svg)](https://wakatime.com/@fb418e3c-8375-46e3-aa10-5574207ac29d)
 
 </details>
 
@@ -362,7 +362,7 @@ Combines structured film data with an LLM reasoning layer to surface insights, c
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=kanishkk-gupta&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile views"/>
 
 <sub>Designed and built from scratch · <a href="#about">Back to top ↑</a></sub>
 
