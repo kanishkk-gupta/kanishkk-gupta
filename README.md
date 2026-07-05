@@ -348,7 +348,18 @@ Combines structured film data with an LLM reasoning layer to surface insights, c
 
 <img src="https://github-profile-trophy.vercel.app/?username=kanishkk-gupta&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" width="90%" alt="Trophies"/>
 
-<img src="./assets/snake-dark.svg" width="90%" alt="Contribution snake"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/kanishkk-gupta/kanishkk-gupta/output/snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/kanishkk-gupta/kanishkk-gupta/output/snake-light.svg">
+  <img
+    alt="Contribution Snake"
+    src="https://raw.githubusercontent.com/kanishkk-gupta/kanishkk-gupta/output/snake-dark.svg"
+    width="90%">
+</picture>
 
 <br/>
 
