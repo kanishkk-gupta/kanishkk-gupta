@@ -4,13 +4,13 @@
 
 <br/>
 
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:kanishkg070@gmailcom">
   <img src="https://img.shields.io/badge/Email-05070D?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email"/>
 </a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE">
+<a href="https://linkedin.com/in/kanishkgupta16">
   <img src="https://img.shields.io/badge/LinkedIn-05070D?style=for-the-badge&logo=linkedin&logoColor=8B5CF6" alt="LinkedIn"/>
 </a>
-<a href="https://YOUR_PORTFOLIO_URL.com">
+<a href="https://kanishkk.me">
   <img src="https://img.shields.io/badge/Portfolio-05070D?style=for-the-badge&logo=vercel&logoColor=3B82F6" alt="Portfolio"/>
 </a>
 <a href="https://iprsearch.ipindia.gov.in/PublicSearch/PublicationSearch/ApplicationStatus">
