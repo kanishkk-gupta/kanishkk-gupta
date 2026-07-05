@@ -1,0 +1,28 @@
+<svg width="1200" height="110" viewBox="0 0 1200 110" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="waveGradBack" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+    <linearGradient id="waveGradFront" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#8B5CF6"/>
+    </linearGradient>
+  </defs>
+
+  <g opacity="0.25" fill="url(#waveGradBack)">
+    <g>
+      <path d="M0,55 C150,110 450,0 600,55 C750,110 1050,0 1200,55 L1200,110 L0,110 Z"/>
+      <path d="M0,55 C150,110 450,0 600,55 C750,110 1050,0 1200,55 L1200,110 L0,110 Z" transform="translate(1200,0)"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;-1200 0" dur="14s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <g opacity="0.5" fill="url(#waveGradFront)">
+    <g>
+      <path d="M0,70 C200,20 400,100 600,60 C800,20 1000,100 1200,65 L1200,110 L0,110 Z"/>
+      <path d="M0,70 C200,20 400,100 600,60 C800,20 1000,100 1200,65 L1200,110 L0,110 Z" transform="translate(1200,0)"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;-1200 0" dur="9s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>
